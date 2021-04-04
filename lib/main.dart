@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
             margin: EdgeInsets.all(10),
             color:Colors.orange,
             child:Center(heightFactor:3,
-                child:Text('asd, World!'
+                child:Text('asd, World!szxfvzx'
                     , style: TextStyle(color: Colors.white,fontSize: 20)
                 ))),
       ),
